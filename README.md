@@ -1,5 +1,5 @@
-- 👋 Hi, weare the of Interactions arm @ Nexus.io
-- 👀 We are interested in buidling infrastructure around nexus blockchain, which will help
+- 👋 Hi, we are the Interactions arm @Nexus.io
+- 👀 We are interested in buidling infrastructure around nexus blockchain, which will help adoption of Nexus and its technology.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on building infrastructure and real world solutions built on Nexus
 - 📫 How to reach me arunpais@nexus.io
